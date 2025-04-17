@@ -1,1 +1,1 @@
-print(id('rfheriufefererferfefrawefaersfaerfarfedfaeeravrvergaergaergarrga23412412342'))
+print(id("rfheriufefererferfefrawefaersfaerfarfedfaeeravrvergaergaergarrga23412412342"))
